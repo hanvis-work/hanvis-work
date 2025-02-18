@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Привет, я Никита!  
 
-<!--
-**hanvis-work/hanvis-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Frontend-разработчик  
+Разрабатываю удобные и красивые веб-приложения, каждый день узнаю что-то новое и прокачиваю свои навыки.  
 
-Here are some ideas to get you started:
+### 🛠 Стек технологий  
+![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)  ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3)  ![SASS](https://img.shields.io/badge/-SASS-333?style=for-the-badge&logo=sass)  ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=for-the-badge&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=for-the-badge&logo=typescript)  ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react)  ![Vite](https://img.shields.io/badge/-Vite-333?style=for-the-badge&logo=vite)  ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack)  ![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma)  ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Сейчас изучаю  
+- Разработку SPA на React  
+- Архитектуру приложений
+
+### 📫 Как связаться?  
+[![Telegram](https://img.shields.io/badge/Telegram-333?style=for-the-badge&logo=telegram)](https://t.me/hanvis)  
